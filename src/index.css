@@ -19,6 +19,13 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+
+  color: var(--color-primary-white);
+  margin-bottom: 2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
 
 .btn {
   -webkit-border-radius: 8px;
